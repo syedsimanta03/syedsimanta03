@@ -21,7 +21,7 @@ I would like to highlight some of my skills:
 
 » Tools:  GIT, VS Code, Adobe XD, Photoshop, Illustrator
 
-👀 **I am currently looking for that next *remote position***
+👀 **I am currently looking for a next *remote position***
 
 🔗 www.designcoder.site
 ✉️ e-mail: syed.simanta10@gmail.com
