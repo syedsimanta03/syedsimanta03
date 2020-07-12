@@ -7,7 +7,7 @@
 
 I have strong knowledge of designing UI/UX and building HTML, CSS, JavaScript, Reactjs, WordPress websites for e-commerce platforms, bloggers, small and medium-sized businesses and pre-launch campaigns for startups.
 
-In addition, I have over 5 YEARS of Front end development experience 
+In addition, I have over 5 YEARS of Front end development experience.
 I would like to highlight some of my skills:
 
 - Worked in teams with developers, UI designers
