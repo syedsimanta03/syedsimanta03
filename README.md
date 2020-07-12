@@ -1,16 +1,30 @@
-### Hi there 👋
+![](./cover.gif)
 
-<!--
-**syedsimanta03/syedsimanta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+
+I have strong knowledge of designing UI/UX and building HTML, CSS, JavaScript, Reactjs, WordPress websites for e-commerce platforms, bloggers, small and medium-sized businesses and pre-launch campaigns for startups.
+
+In addition, I have over 5 YEARS of Front end development experience 
+I would like to highlight some of my skills:
+
+➕ Worked in teams with developers, UI designers
+➕ Solved UX and visual design challenges with safety guidelines in mind
+➕ Can make UI to responsive website by writing clean code
+⭐ Web Accessibility (A11Y) and SEO score up to 90%
+
+» Design Skills: ✔️ UI/UX  ✔️ Web Assets 
+
+» Tech Skills:  ✔️ HTML ✔️ CSS ✔️ SASS ✔️ JavaScript ✔️ WordPress ✔️ ReactJS ✔️ Redux
+
+» Tools:  GIT, VS Code, Adobe XD, Photoshop, Illustrator
+
+👀 **I am currently looking for that next *remote position***
+
+🔗 www.designcoder.site
+✉️ e-mail: syed.simanta10@gmail.com
+
+____
+
+For a detailed list of accomplishments, please request my resume.
