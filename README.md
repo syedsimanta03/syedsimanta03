@@ -1,4 +1,4 @@
-[![Simanta has a lot of ideas.](cover.gif)](https://www.designcoder.site)
+[![Simanta has a lot of ideas.](https://github.com/syedsimanta03/syedsimanta03/raw/master/cover.gif)](https://www.designcoder.site)
 
 
 
