@@ -17,7 +17,7 @@ I would like to highlight some of my skills:
 
 » Design Skills: ✔️ UI/UX  ✔️ Web Assets  
 
-» Tech Skills:  ✔️ HTML ✔️ CSS ✔️ SASS ✔️ JavaScript ✔️ WordPress ✔️ ReactJS ✔️ Redux
+» Tech Skills:  ✔️ HTML ✔️ CSS ✔️ SASS ✔️ TailwindCSS ✔️ JavaScript ✔️ WordPress ✔️ ReactJS ✔️ Redux 
 
 » Tools:  GIT, VS Code, Adobe XD, Photoshop, Illustrator
 
