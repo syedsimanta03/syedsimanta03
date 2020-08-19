@@ -19,6 +19,8 @@ I would like to highlight some of my skills:
 
 » Tech Skills:  ✔️ HTML ✔️ CSS ✔️ SASS ✔️ TailwindCSS ✔️ JavaScript ✔️ WordPress ✔️ ReactJS ✔️ Redux 
 
+» Dev Technologies:  ✔️ Cypress ✔️ Webpack ✔️ Parcel
+
 » Tools:  GIT, VS Code, Adobe XD, Photoshop, Illustrator
 
 👀 **I am currently looking for a next *remote position***
