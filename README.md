@@ -31,7 +31,7 @@ I would like to highlight some of my skills:
 ____
 
 For a detailed list of accomplishments, please request my resume.
-<p align = 'center'> 
+<p align = 'left'> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=syedsimanta03&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
