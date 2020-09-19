@@ -1,4 +1,4 @@
-[![Simanta has a lot of ideas.](https://github.com/syedsimanta03/syedsimanta03/raw/master/cover.gif)](https://www.designcoder.site)
+[![Simanta has a lot of ideas.](https://github.com/syedsimanta03/syedsimanta03/raw/master/cover.gif)](https://designcoder.netlify.app/)
 
 
 
@@ -25,7 +25,7 @@ I would like to highlight some of my skills:
 
 👀 **I am currently looking for a next *remote position***
 
-🔗 www.designcoder.site
+🔗 https://designcoder.netlify.app
 ✉️ e-mail: syed.simanta10@gmail.com
 
 ____
