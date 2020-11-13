@@ -33,6 +33,6 @@ ____
 For a detailed list of accomplishments, please request my resume.
 <p align = 'left'> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=syedsimanta03&show_icons=true&hide=stars,prs&theme=radical" alt="Simanta's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=syedsimanta03&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs&theme=radical" alt="Simanta's github stats" />
 </a>
 </p>
