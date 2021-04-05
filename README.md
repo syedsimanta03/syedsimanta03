@@ -17,7 +17,7 @@ I would like to highlight some of my primary skills:
 
 » Design Skills: ✔️ UI/UX  ✔️ Web Assets  
 
-» Tech Skills:  ✔️ HTML ✔️ CSS ✔️ SASS ✔️ TailwindCSS ✔️ JavaScript ✔️ WordPress ✔️Ionic ✔️ ReactJS ✔️ Redux 
+» Tech Skills:  ✔️ HTML ✔️ CSS ✔️ SASS ✔️ TailwindCSS ✔️ JavaScript ✔️ WordPress ✔️Ionic ✔️ ReactJS ✔️ Redux ✔️ Vue ✔️ Vuex
 
 » Dev Technologies:  ✔️ Cypress ✔️ Webpack ✔️ Parcel
 
