@@ -4,31 +4,31 @@
 
 
 ------
+My role is to design and write the front-end components that meet the requirements of our mocks and fulfill our user stories. I also monitor and process pull requests for production deployments. 
 
-I have strong knowledge of designing UI/UX and building HTML, CSS, JavaScript, Reactjs, WordPress websites for e-commerce platforms, bloggers, small and medium-sized businesses and pre-launch campaigns for startups.
+Technologies used:  JavaScript, React, ES6, TypeScript, SASS, WordPress 
 
-In addition, I have over 5 YEARS of Front end development experience.
-I would like to highlight some of my primary skills:
 
-- Worked in teams with developers, UI designers
+#OpenToWork
+
+I would like to highlight some of my skills:
+
+- Modern UI design that defines business goals clearly
 - Solved UX and visual design challenges with safety guidelines in mind
-- Can make UI to responsive website by writing clean code
-- Web Accessibility (A11Y) and SEO score up to 90%⭐
+- Responsive website by writing clean code
+- Web Accessibility (A11Y) and SEO score up to 90% & PWA
 
-» Design Skills: ✔️ UI/UX  ✔️ Web Assets  
+» Design Skills: ✔️ UI/UX  ✔️ Web Assets ✔️ Branding
 
-» Tech Skills:  ✔️ HTML ✔️ CSS ✔️ SASS ✔️ TailwindCSS ✔️ JavaScript ✔️ WordPress ✔️Ionic ✔️ ReactJS ✔️ Redux ✔️ Vue ✔️ Vuex
+» Tech Skills:   ✔️ HTML ✔️ CSS ✔️ SASS ✔️ Tailwind CSS ✔️ JavaScript ✔️ WordPress ✔️ ReactJS ✔️ Redux
+                        ✔️ CSS Grid ✔️ Email template ✔️ TypeScript ✔️ Nextjs ✔️  Vue  ✔️ Nuxt
 
-» Dev Technologies:  ✔️ Cypress ✔️ Webpack ✔️ Parcel
-
-» Tools:  GIT, VS Code, Adobe XD, Photoshop, Illustrator
-
-👀 **I am currently looking for a next *remote position***
+» Tools:  GIT, VS Code, Adobe XD, Figma, Photoshop, Illustrator
 
 🔗 https://designcoder.netlify.app
 ✉️ e-mail: syed.simanta10@gmail.com
-
 ____
+_
 
 For a detailed list of accomplishments, please request my resume.
 <p align = 'left'> 
