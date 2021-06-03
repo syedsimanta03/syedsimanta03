@@ -21,16 +21,28 @@ I would like to highlight some of my skills:
 - Responsive website by writing clean code
 - Web Accessibility (A11Y) and SEO score up to 90% & PWA
 
-## 🧰 Technologies and Tools
-
 » Design Skills: ✔️ UI/UX  ✔️ Web Assets ✔️ Branding
+» Tools:  GIT, VS Code, Adobe XD, Figma, Photoshop, Illustrator
+
+## 🧰 Technologies
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+
 
 » Tech Skills:   ✔️ HTML ✔️ CSS ✔️ SASS ✔️ Tailwind CSS ✔️ JavaScript ✔️ WordPress ✔️ ReactJS ✔️ Redux
                         ✔️ CSS Grid ✔️ Email template ✔️ TypeScript ✔️ Nextjs ✔️  Vue  ✔️ Nuxt
-                        
-» Tools:  GIT, VS Code, Adobe XD, Figma, Photoshop, Illustrator
-<img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-🔗 https://designcoder.netlify.app
+                       
+<br>
+
 ✉️ e-mail: syed.simanta10@gmail.com
 ____
 ## 📌 Pinned Repositories
