@@ -22,6 +22,7 @@ I would like to highlight some of my skills:
 - Web Accessibility (A11Y) and SEO score up to 90% & PWA
 
 » Design Skills: ✔️ UI/UX  ✔️ Web Assets ✔️ Branding
+<br>
 » Tools:  GIT, VS Code, Adobe XD, Figma, Photoshop, Illustrator
 
 ## 🧰 Technologies
