@@ -88,5 +88,6 @@ ____
 </a>
   
 </p>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=syedsimanta03) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=syedsimanta03)  
 
