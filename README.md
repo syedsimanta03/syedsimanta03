@@ -72,8 +72,8 @@ ____
 <a href="https://github.com/syedsimanta03/instagram-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syedsimanta03&repo=instagram-clone&theme=radical" />
 </a>
-<a href="https://github.com/syedsimanta03/verify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syedsimanta03&repo=verify&theme=radical" />
+<a href="https://github.com/syedsimanta03/fashop-gatsby-shopify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syedsimanta03&repo=fashop-gatsby-shopify&theme=radical" />
 </a>
 
 ## 📈 GitHub Stats
