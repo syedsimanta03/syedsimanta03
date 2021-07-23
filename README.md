@@ -20,6 +20,9 @@ Hey 👋 I'm [Simanta](http://designcoder.netlify.app). I’m a self-taught deve
 
 I would like to highlight some of my skills:
 
+- Convert hi-res design mock-ups to pixel-perfect, reusable React components using React, Redux and Sass.
+- Fixed bugs from existing websites and implemented enhancements that significantly improved
+web functionality and speed.
 - Modern UI design that defines business goals clearly
 - Solved UX and visual design challenges with safety guidelines in mind
 - Responsive website by writing clean code
