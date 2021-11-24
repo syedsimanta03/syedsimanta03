@@ -14,7 +14,6 @@
 ------
 Hey 👋 I'm [Simanta](http://designcoder.netlify.app). I’m a self-taught developer who is passionate about UI/UX. I have experience designing and developing clean and minimal apps through clean code and user-friendly design that result in engaging experiences.
 
- ✍️ I write and post articles on my [website](http://designcoder.netlify.app/blog) and [DEV.to](https://dev.to/syedsimanta03) <br>
  ⚡ Fun fact about me: I'm a designer turned software developer
 
 
