@@ -67,7 +67,7 @@ web functionality and speed.
 ____
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/syedsimanta03/coin-desk-revamp">
+<a href="https://clarityclean.ca/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syedsimanta03&repo=coin-desk-revamp&theme=radical" />
 </a>
 <a href="https://github.com/syedsimanta03/tailwindcss-dashboard">
