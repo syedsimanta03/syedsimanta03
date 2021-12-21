@@ -65,7 +65,7 @@ web functionality and speed.
 
 ✉️ e-mail: syed.simanta10@gmail.com
 ____
-## 📌 Pinned Repositories
+## 📌 Pinned Repositories 
 
 <a href="https://github.com/syedsimanta03/nextjs-takeoff">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syedsimanta03&repo=coin-desk-revamp&theme=radical" />
