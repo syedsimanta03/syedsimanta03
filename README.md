@@ -68,7 +68,7 @@ ____
 ## 📌 Pinned Repositories 
 
 <a href="https://github.com/syedsimanta03/nextjs-takeoff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syedsimanta03&repo=coin-desk-revamp&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syedsimanta03&repo=nextjs-takeoff&theme=radical" />
 </a>
 <a href="https://github.com/syedsimanta03/tailwindcss-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syedsimanta03&repo=tailwindcss-dashboard&theme=radical" />
