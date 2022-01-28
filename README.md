@@ -86,5 +86,5 @@ ____
   
 </p>
 
-[![Simanta's GitHub stats](https://github-readme-stats.vercel.app/api?theme=radical&username=syedsimanta03&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://activity-graph.herokuapp.com/graph?username=syedsimanta03&theme=dracula&bg_color=00000000&color=22c55e&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
