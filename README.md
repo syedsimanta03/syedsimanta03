@@ -54,12 +54,7 @@ web functionality and speed.
     
  </p>
  
- <p align="center">
-  <a href="http://designcoder.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,sass,tailwind,react,vue,solidity,wordpress&theme=dark" />
-  </a>
-</p>
- 
+  
 <br>
 
 ✉️ e-mail: syed.simanta10@gmail.com
