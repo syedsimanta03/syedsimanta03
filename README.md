@@ -1,7 +1,7 @@
 [![Simanta has a lot of ideas.](https://github.com/syedsimanta03/syedsimanta03/raw/master/cover.gif)](https://designcoder.netlify.app/)
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Developer+%26+Designer%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Developer+and+Designer)](https://git.io/typing-svg)
 </div>
 
 <br>
