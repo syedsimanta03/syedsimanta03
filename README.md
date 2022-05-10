@@ -1,15 +1,11 @@
 [![Simanta has a lot of ideas.](https://github.com/syedsimanta03/syedsimanta03/raw/master/cover.gif)](https://designcoder.netlify.app/)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%239A9BFF&lines=Developer&+web+designer;Always+learn+new+thing;UI/JavaScript+lover" />
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedsimanta03" />
+  [![Typing...](https://readme-typing-svg.herokuapp.com?lines=Developer+%26+Designer%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
-<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedsimanta03&theme=monokai)
+
 
 <div align="center">
 
