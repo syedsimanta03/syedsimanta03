@@ -17,7 +17,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/syedsimanta03/syedsimanta03)
 
 ------
-Hey 👋 I'm [Simanta](http://designcoder.netlify.app). I’m a [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&center=true&width=180&height=17&lines=Developer+and+Designer)](https://git.io/typing-svg) who is passionate about UI/UX. I have experience designing and developing clean and minimal apps through clean code and user-friendly design that result in engaging experiences.
+Hey 👋 I'm [Simanta](http://designcoder.netlify.app). I’m a [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&center=true&width=180&height=20&lines=Developer+and+Designer)](https://git.io/typing-svg) who is passionate about UI/UX. I have experience designing and developing clean and minimal apps through clean code and user-friendly design that result in engaging experiences.
 
  ⚡ Fun fact about me: I'm a designer turned software developer
 
