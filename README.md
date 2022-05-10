@@ -1,20 +1,17 @@
 [![Simanta has a lot of ideas.](https://github.com/syedsimanta03/syedsimanta03/raw/master/cover.gif)](https://designcoder.netlify.app/)
 
 <div align="center">
-  [![Typing...](https://readme-typing-svg.herokuapp.com?lines=Developer+%26+Designer%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing](https://readme-typing-svg.herokuapp.com?lines=Developer+%26+Designer%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedsimanta03&theme=monokai)
 
 
 <div align="center">
-
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img src="https://raw.githubusercontent.com/syedsimanta03/master/profile-summary-card-output/monokai/1-repos-per-language.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img src="https://raw.githubusercontent.com/syedsimanta03/master/profile-summary-card-output/monokai/2-most-commit-language.svg" />
-  </a>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedsimanta03&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedsimanta03&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedsimanta03&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedsimanta03&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedsimanta03&theme=radical&utcOffset=8)
 
 </div>
 
