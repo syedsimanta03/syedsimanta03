@@ -8,11 +8,7 @@
 <br>
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedsimanta03&theme=radical)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedsimanta03&theme=radical)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedsimanta03&theme=radical)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedsimanta03&theme=radical)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedsimanta03&theme=radical&utcOffset=8)
+
 
 </div>
 
