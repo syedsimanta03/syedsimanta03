@@ -5,11 +5,6 @@
 <br>
 <br>
 
-<div align="center">
-
-
-</div>
-
 
 <a href="https://www.linkedin.com/in/syedsimanta03/">
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,7 +17,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/syedsimanta03/syedsimanta03)
 
 ------
-Hey 👋 I'm [Simanta](http://designcoder.netlify.app). I’m a [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&center=true&width=150&height=17&lines=Developer+and+Designer)](https://git.io/typing-svg) who is passionate about UI/UX. I have experience designing and developing clean and minimal apps through clean code and user-friendly design that result in engaging experiences.
+Hey 👋 I'm [Simanta](http://designcoder.netlify.app). I’m a [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&center=true&width=180&height=17&lines=Developer+and+Designer)](https://git.io/typing-svg) who is passionate about UI/UX. I have experience designing and developing clean and minimal apps through clean code and user-friendly design that result in engaging experiences.
 
  ⚡ Fun fact about me: I'm a designer turned software developer
 
