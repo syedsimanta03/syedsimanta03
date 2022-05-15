@@ -95,6 +95,6 @@ ____
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedsimanta03&theme=nord_bright" alt="syedsimanta03" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedsimanta03&theme=nord_bright" alt="syedsimanta03" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedsimanta03&theme=monokai" alt="syedsimanta03" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedsimanta03&theme=monokai" alt="syedsimanta03" />
 </p>
