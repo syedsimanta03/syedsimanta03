@@ -90,11 +90,12 @@ ____
 <p align = 'left'> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=syedsimanta03&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs&theme=radical" alt="Simanta's github stats" />
+  
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedsimanta03&theme=monokai" alt="syedsimanta03" />
 </a>
   
 </p>
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedsimanta03&theme=monokai" alt="syedsimanta03" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedsimanta03&theme=monokai" alt="syedsimanta03" />
-</p>
+
+
+
