@@ -87,14 +87,14 @@ ____
 
 ## 📈 GitHub Stats
 
-<p align = 'left'> 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=syedsimanta03&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs&theme=radical&hide_border=true" alt="Simanta's github stats" />
    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsimanta03&theme=github&hide_border=true" />
 </a>
   
   
-</p>
+
 
 
 
