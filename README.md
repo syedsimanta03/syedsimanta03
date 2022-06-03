@@ -94,7 +94,7 @@ ____
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedsimanta03&theme=radical" alt="syedsimanta03" />
 </a>
   
-  [![Syed Simanta's's github activity graph](https://activity-graph.herokuapp.com/graph?username=syedsimanta03&theme=react-dark	)](https://github.com/syedsimanta03/github-readme-activity-graph)
+ <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsimanta03&theme=ayu-mirage&hide_border=true" />
   
 </p>
 
