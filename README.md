@@ -93,10 +93,14 @@ ____
   
 </a>
   
- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsimanta03&theme=ayu-mirage&hide_border=true" />
   
 </p>
 
+<p align = 'right'> 
+
+ <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsimanta03&theme=ayu-mirage&hide_border=true" />
+  
+</p>
 
 
 
