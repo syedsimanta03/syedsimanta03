@@ -14,7 +14,7 @@
   <img align="left" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=syedsimanta03&color=green)
+![](https://komarev.com/ghpvc/?username=syedsimanta03&color=green&style=flat-square)
 
 ------
 Hey 👋 I'm [Simanta](http://designcoder.netlify.app). I’m a [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&center=true&width=180&height=20&lines=Developer+and+Designer)](https://git.io/typing-svg) who is passionate about UI/UX. I have experience designing and developing clean and minimal apps through clean code and user-friendly design that result in engaging experiences.
