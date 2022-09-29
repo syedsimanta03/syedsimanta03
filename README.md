@@ -24,7 +24,7 @@ Hey 👋 I'm [Simanta](http://designcoder.netlify.app). I’m a [![Typing SVG](h
 
 I would like to highlight some of my skills:
 
-- Convert hi-res design mock-ups to pixel-perfect, reusable React components using React, Redux and Sass.
+- Convert hi-res design mock-ups to pixel-perfect, reusable components.
 - Fixed bugs from existing websites and implemented enhancements that significantly improved
 web functionality and speed.
 - Modern UI design that defines business goals clearly
