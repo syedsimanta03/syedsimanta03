@@ -9,7 +9,7 @@
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://wa.me/%2B8801316258551?text=Hello%20There!" target="_blank" rel="noopener noreferrer">
+<a href="https://wa.me/message/LBUXFYIR36O7L1?text=Hello%20There!" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
