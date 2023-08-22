@@ -63,26 +63,9 @@ web functionality and speed.
 
 ✉️ e-mail: syed.simanta10@gmail.com
 ____
-## 📌 Pinned Repositories 
-
-<a href="https://github.com/syedsimanta03/Blockchain-JavaScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?pin/username=syedsimanta03&repo=Blockchain-JavaScript&theme=radical" />
-</a>
-
-<a href="https://github.com/syedsimanta03/nextjs-takeoff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?pin/username=syedsimanta03&repo=nextjs-takeoff&theme=radical" />
-</a>
 
 
-<br>
-<br>
 
-<a href="https://github.com/syedsimanta03/instagram-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?pin/username=syedsimanta03&repo=instagram-clone&theme=radical" />
-</a>
-<a href="https://github.com/syedsimanta03/gatsby-shopify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?pin/username=syedsimanta03&repo=gatsby-shopify&theme=radical" />
-</a>
 
 ## 📈 GitHub Stats
 
