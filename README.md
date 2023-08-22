@@ -64,9 +64,9 @@ web functionality and speed.
 ✉️ e-mail: syed.simanta10@gmail.com
 ____
 ## 📌 Pinned Repositories
-https://github.com/syedsimanta03/Blockchain-JavaScript
-https://github.com/syedsimanta03/nextjs-takeoff
-https://github.com/syedsimanta03/instagram-clone
+https://github.com/syedsimanta03/Blockchain-JavaScript <br>
+https://github.com/syedsimanta03/nextjs-takeoff <br>
+https://github.com/syedsimanta03/instagram-clone <br>
 https://github.com/syedsimanta03/gatsby-shopify
 
 
