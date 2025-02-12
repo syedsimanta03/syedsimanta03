@@ -73,11 +73,7 @@ https://github.com/syedsimanta03/gatsby-shopify
 ## 📈 GitHub Stats
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49.5%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=syedsimanta03&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs&theme=radical&hide_border=true" alt="Simanta's github stats" />
-   <img width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=syedsimanta03&theme=radical&hide_border=true" />
-</a>
-  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/syedsimanta03?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
   
 
 
